@@ -1,5 +1,5 @@
 {
-  "maxAllowedChars": 190000,
+  "maxAllowedChars": 90000,
   "pretextFile": "pretext.txt",
   "pretextByPartNumberFile": "pretextByPartNumber.txt",
   "longTextFile": "longText.txt",

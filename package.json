@@ -1,0 +1,13 @@
+{
+  "name": "split-text",
+  "version": "1.0.0",
+  "description": "A utility script to split large text files into smaller parts with customizable pretexts and handling specified deletion patterns.",
+  "main": "generateHTML.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "split": "node splitText.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
