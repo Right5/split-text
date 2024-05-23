@@ -1,0 +1,11 @@
+{
+  "maxAllowedChars": 190000,
+  "pretextFile": "pretext.txt",
+  "pretextByPartNumberFile": "pretextByPartNumber.txt",
+  "longTextFile": "longText.txt",
+  "inputFolder": "input",
+  "outputHtmlFile": "output/results.html",
+  "deleteRegexList": [
+    "\\s\\(\\d{2}:\\d{2}:\\d{2}\\)\\s"
+  ]
+}
